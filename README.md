@@ -1,7 +1,8 @@
 # Service Quality & Customer LTV Analytics – Urban Mobility Platform 🚕⭐
 
 **Author:** Luis Chaumer  
-**Role:** Data Analyst  
+**Role:** Data Analyst
+**Company:** Icar Services
 **Dataset:** 112,568 interactions · 30,000 customers  
 **Tools:** Python, Pandas, Matplotlib, SQLite (SQL), Jupyter Notebook  
 
